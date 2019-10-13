@@ -37,7 +37,7 @@
 
 [https://htmlacademy.ru/courses/39/run/14](https://htmlacademy.ru/courses/39/run/14)
 
-![colspan](/articles/2018.09.16/DraggedImage.jpeg)
+![colspan](/articles/2019.10.12/DraggedImage.jpeg)
 
 Атрибут `colspan`
 
@@ -45,7 +45,7 @@
 
 [https://htmlacademy.ru/courses/39/run/15](https://htmlacademy.ru/courses/39/run/15)
 
-![rowspan](/articles/2018.09.16/DraggedImage-1.jpeg)
+![rowspan](/articles/2019.10.12/DraggedImage-1.jpeg)
 
 Атрибут `rowspan`
 
@@ -71,6 +71,18 @@
 ### Таблицы на HTMLAcademy
 
 [Знакомство с таблицами](https://htmlacademy.ru/courses/39)
+
+## Домашнее задание по таблицам
+
+[HTML Таблицы](https://developer.mozilla.org/ru/docs/Learn/HTML/Tables)
+
+При переходе на следующую статью, выбирайте русскую версию перевода если нужно (и если перевод есть вообще :) )
+
+Для проверки знаний, соберите [таблицу с данными о планетах](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) (перевода на русский этот раздел пока не имеет)
+
+Должна получиться подобная [таблица с планетами](https://mdn.github.io/learning-area/html/tables/assessment-finished/planets-data.html) (в исходники не подглядывать)
+
+Стартовые файлы берутся в разделе **Starting point**
 
 ## Формы
 
