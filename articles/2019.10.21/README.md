@@ -185,6 +185,10 @@ p {
 
 [Список всех вариантов селекторов](https://www.w3.org/TR/selectors-3/#selectors) (спецификация)
 
+## Проверка поддержки селекторов
+
+[CSS Selectors test](https://css4-selectors.com/browser-selector-test/)
+
 ## Упражнения
 
 ### HTML Academy
