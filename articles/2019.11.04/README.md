@@ -1,5 +1,11 @@
 # Float и контексты форматирования
 
+## Про сетки на float
+
+[https://codesandbox.io/s/cranky-germain-w9ule?fontsize=14](https://codesandbox.io/s/cranky-germain-w9ule?fontsize=14)
+
+[https://codesandbox.io/s/immutable-forest-p0y34?fontsize=14](https://codesandbox.io/s/immutable-forest-p0y34?fontsize=14)
+
 ## Float элементы
 
 ## Контексты форматирования в CSS
@@ -44,6 +50,8 @@
 ## Автоматическая «блокификация»
 
 [https://drafts.csswg.org/css-display-3/#blockify](https://drafts.csswg.org/css-display-3/#blockify)
+
+[CodePen](https://codepen.io/curtdp/pen/RwwZYyp?editors=1100)
 
 ### Примеры
 
@@ -231,6 +239,8 @@ body {
 (MULTIPLE-COLUMN LAYOUT)
 
 Это метод разделения контента на колонки, почти как в газетной верстке. На первый взгляд может показаться, что в вебе это не применимо, но есть хорошие примеры использования.
+
+[https://codesandbox.io/s/stupefied-glitter-zejf6?fontsize=14](Codesandbox)
 
 [https://csslayoutbookcodesamples.netlify.com/chapter3/multicolumn-layout.html](https://csslayoutbookcodesamples.netlify.com/chapter3/multicolumn-layout.html)
 
