@@ -30,4 +30,6 @@
 
 [2019.11.16 CSS Свойства текста](/articles/2019.11.16)
 
-[2019.11.18 CSS Grids](/articles/2019.11.16-grids)
+[2019.11.18 CSS Grids](/articles/2019.11.18-grids)
+
+[2019.11.18 CSS Grids Практика, Media Queries, Feature Queries](/articles/2019.11.23)
