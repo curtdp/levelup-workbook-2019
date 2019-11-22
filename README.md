@@ -30,4 +30,4 @@
 
 [2019.11.16 CSS Свойства текста](/articles/2019.11.16)
 
-[2019.11.11 CSS Grids](/articles/2019.11.16-grids)
+[2019.11.18 CSS Grids](/articles/2019.11.16-grids)
