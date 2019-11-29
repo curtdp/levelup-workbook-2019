@@ -35,3 +35,5 @@
 [2019.11.18 CSS Grids Практика, Media Queries, Feature Queries](/articles/2019.11.23)
 
 [2019.11.25 Responsive Design](/articles/2019.11.25-responsive)
+
+[2019.12.01 BEM и другие методологии](/articles/2019.12.01-methodology)
