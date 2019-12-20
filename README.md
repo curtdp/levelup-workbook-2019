@@ -39,3 +39,5 @@
 [2019.12.01 BEM и другие методологии](/articles/2019.12.01-methodology)
 
 [2019.12.07  Gulp, CSS Transformations, Transitions, Animations](/articles/2019.12.07)
+
+[2019.12.21  JS начало](/articles/2019.12.21-JS01)
