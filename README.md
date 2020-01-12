@@ -41,3 +41,5 @@
 [2019.12.07  Gulp, CSS Transformations, Transitions, Animations](/articles/2019.12.07)
 
 [2019.12.21  JS начало](/articles/2019.12.21-JS01)
+
+[2020.01.12  JS функции](/articles/2020.01.12)
