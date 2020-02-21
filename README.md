@@ -61,3 +61,7 @@
 [2020.02.08 JS Объекты](/articles/2020.02.08)
 
 [2020.02.13 JS new this prototype](/articles/2020.02.13)
+
+[2020.02.22 JS Async JS](/articles/2020.02.22)
+
+[2020.02.24 JS Async JS Продолжение](/articles/2020.02.24)
