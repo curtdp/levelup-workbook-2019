@@ -65,3 +65,7 @@
 [2020.02.22 JS Async JS](/articles/2020.02.22)
 
 [2020.02.24 JS Async JS Продолжение](/articles/2020.02.24)
+
+[2020.02.29 Async Prompt Async Typer jQuery](/articles/2020.02.29)
+
+[2020.02.24 API](/articles/2020.03.02)
